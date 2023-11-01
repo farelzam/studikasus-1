@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    background: url('aset/a20cf5d62d00bb1ad11379a59c15966a.jpg') center/cover no-repeat;
+    width: 100%;
+}
+
+#card-1{
+    margin-left: 550px;
+    margin-top: 50px;
+}
